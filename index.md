@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Rust Nigeria
 
 You can use the [editor on GitHub](https://github.com/Rust-Nigeria/rustnigeria.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,8 +11,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Header 1https://github.com/Rust-Nigeria/rust-nigeria-website.git
+
 ## Header 2
+
 ### Header 3
 
 - Bulleted
