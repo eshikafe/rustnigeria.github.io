@@ -6,4 +6,4 @@ This website is a repositiory of all our events, articles and stories of our rus
 
 ### Articles
 
-Check out some of the articles written by members of the Rust Nigeria [here](https://rust-nigeria.github.io/rust-nigeria-website/articles)
+Check out some of the articles written by members of the Rust Nigeria [here](https://rust-nigeria.github.io/rustnigeria.github.io/articles)
